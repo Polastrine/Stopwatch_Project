@@ -14,9 +14,7 @@ The application really consists of a stopwatch that you determine only the minut
 
 
 ## Layout web
-![Web 1]()
-
-![Web 2]()
+![Web 1](https://github.com/Deekzzyy/Stopwatch_Project/blob/main/assets/Web%20Model%20Pic.jpg)
 
 
 # Tecnologias utilizadas
