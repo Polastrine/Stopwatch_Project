@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRONÔMETRO PROJETO</title>
+</head>
+<body>
+
+    <h1>CRONÔMETRO</h1>
+
+    <audio id="sound" src="./assets/alarm.mp3" style="display: none;"></audio>
+
+
+
+    <div class="container">
+
+        <h2>Minutos:</h2>
+        <select name="minutos" id="minutos"></select>
+
+        <h2>Segundos:</h2>
+        <select name="segundos" id="segundos"></select>
+
+        <div id="button">
+            <button id="comecar">COMEÇAR</button>
+        </div><!--button-->
+
+    </div><!--container-->
+
+
+
+    <div id="display">
+        <h3 id="tempo">00:00</h3>
+    </div><!--display-->
+
+
+
+    <link rel="stylesheet" href="./style.css">
+    <script src="./script.js"></script>
+
+</body>
+</html>
